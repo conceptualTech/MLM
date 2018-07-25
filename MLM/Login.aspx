@@ -45,7 +45,7 @@
 
               <div>
                   <br/>
-                <asp:Button  ID="Button1" runat="server" Text="Log in" Width="100px" OnClick="Button1_Click"/>
+                <asp:Button  ID="Button1" runat="server" Text="Log in" Width="120px" OnClick="Button1_Click"/>
                 <a class="reset_pass" href="#">Lost your password?</a>
               </div>
 
